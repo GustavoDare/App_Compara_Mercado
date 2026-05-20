@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Compara Mercado</string>
+
+    <string name="search_header_price">Pesquisar Preços</string>
+    <string name="search_header_field">Produto, Supermercado ou Categoria</string>
+    <string name="search_header_icon">Ícone de Busca</string>
+
+    <string name="nav_search">Pesquisar</string>
+    <string name="nav_shopping">Compras</string>
+    <string name="nav_price">Informar Preço</string>
+    <string name="nav_inform">Informar</string>
+    <string name="nav_profile">Perfil</string>
+
+    <string name="shop_card_delete">Excluir Item</string>
+
+    <string name="prod_card_add">Adicionar ao Carrinho</string>
+    <string name="prod_card_loc">Localização</string>
+    <string name="prod_card_price">Sugerir novo preço</string>
+    <string name="prod_card_delete">Deletar Produto</string>
+    
+    <string name="inf_screen_title">Informar Preço</string>
+    <string name="inf_screen_help">Ajude a comunidade adicionando produtos</string>
+    <string name="inf_screen_product">Produto</string>
+    <string name="inf_screen_product_field">Ex.: Óleo de Soja 900ml</string>
+    <string name="inf_screen_shop_icon">Ícone de Compras</string>
+    <string name="inf_screen_supermarket">Supermercado</string>
+    <string name="inf_screen_supermarket_name">Nome do supermercado</string>
+    <string name="inf_screen_star_icon">Ícone de Estrela</string>
+    <string name="inf_screen_category">Categoria</string>
+    <string name="inf_screen_category_field">Ex.: Bebidas</string>
+    <string name="inf_screen_add_icon">Ícone de Adição</string>
+    <string name="inf_screen_price">Preço (R$)</string>
+    <string name="inf_screen_price_field">0,00</string>
+    <string name="inf_screen_save_product">Salvar produto</string>
+    
+    <string name="login_screen_app_icon">Logo do aplicativo</string>
+    <string name="login_screen_app_name">Compara Mercado</string>
+    <string name="login_screen_sub_title">Economize compartilhando preços com a comunidade</string>
+    <string name="login_screen_email">email@email.com</string>
+    <string name="login_screen_password">senha</string>
+    <string name="login_screen_error_fields">E-mail ou senha incorretos</string>
+    <string name="login_screen_enter">Entrar</string>
+    <string name="login_screen_new_account">Criar nova conta</string>
+    
+    <string name="reg_screen_new_account">Criar Nova Conta</string>
+    <string name="reg_screen_email">email@email.com</string>
+    <string name="reg_screen_password">Senha</string>
+    <string name="reg_screen_password_conf">Confirmar Senha</string>
+    <string name="reg_screen_reg">Cadastrar</string>
+    <string name="reg_screen_back">Já tem conta? Voltar para a tela de Login</string>
+    
+    <string name="reg_view_fill_fields">Preencha todos os campos!</string>
+    <string name="reg_view_error_password">As senhas não coincidem!</string>
+    
+    <string name="prod_screen_title">Meus Produtos</string>
+    <string name="prod_screen_back">Voltar</string>
+    <string name="prod_screen_history">Histórico de contribuições</string>
+    <string name="prod_screen_history_empty">Você ainda não informou nenhum preço</string>
+    <string name="prod_screen_card_supermarket">Local não informado</string>
+    <string name="prod_screen_card_category">Outros</string>
+
+    <string name="profile_screen_icon">Foto de Perfil</string>
+    <string name="profile_screen_user">Usuário</string>
+    <string name="profile_screen_products">Meus Produtos Informados</string>
+    <string name="profile_screen_config">Configurações</string>
+    <string name="profile_screen_out_icon">Ícone de Sair</string>
+    <string name="profile_screen_out_account">Sair da Conta</string>
+    
+    <string name="sett_screen_conf">Configurações</string>
+    <string name="sett_screen_back_icon">Voltar</string>
+    <string name="sett_screen_prefer">Preferências</string>
+    <string name="sett_screen_notification">Notificações de preços baixos</string>
+    <string name="sett_screen_dark_mode">Modo Escuro</string>
+    <string name="sett_screen_about">Sobre</string>
+    <string name="sett_screen_version">Versão 1.0.0</string>
+    
+    <string name="search_screen_load_offer">Carregar Ofertas Online (API)</string>
+    <string name="search_screen_empty">Nenhum produto encontrado</string>
+    <string name="search_screen_list">Lista de Produtos</string>
+
+    <string name="search_view_model_email">api@dummyjson.com</string>
+    <string name="search_view_model_market">Oferta Online</string>
+    <string name="search_view_model_load_sucess">Sucesso! Baixou %1$d produtos.</string>
+    <string name="search_view_model_load_error">Erro ao carregar ofertas: %1$s</string>
+
+    <string name="alert_price_text">Atualizar preço</string>
+    <string name="alert_price_product">Produto: %1$s</string>
+    <string name="alert_price_new_price">Novo valor (R$)</string>
+    <string name="alert_price_save">Salvar</string>
+    <string name="alert_price_cancel">Cancelar</string>
+    
+    <string name="shop_list_screen_title">Minha lista</string>
+    <string name="shop_list_screen_total_items">%1$d itens no carrinho</string>
+    <string name="shop_list_screen_price">Valor Total</string>
+    <string name="shop_list_screen_add_icon">Adicionar</string>
+    <string name="shop_list_screen_add_item">Adicionar Item</string>
+    <string name="shop_list_screen_clean_list">Limpar Lista</string>
+</resources>
