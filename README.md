@@ -17,7 +17,9 @@ Para rodar este aplicativo localmente em sua máquina, siga os passos abaixo:
 **Passo a Passo:**
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/compara-mercado.git](https://github.com/SEU_USUARIO/compara-mercado.git)
+   git clone https://github.com/GustavoDare/App_Compara_Mercado.git
+   ou
+   git clone git@github.com:GustavoDare/App_Compara_Mercado.git
 
 
 2. Abra o **Android Studio**.
